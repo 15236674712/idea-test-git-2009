@@ -10,4 +10,6 @@ public interface VideoDao {
 
     Video queryById(String id);
 
+    String query();
+
 }
