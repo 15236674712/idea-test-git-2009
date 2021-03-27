@@ -20,6 +20,7 @@ class IdeaTestss {
         int a=20;
         int b=30;
         String str="111";
+        int aaa=12;
     }
 
 }
