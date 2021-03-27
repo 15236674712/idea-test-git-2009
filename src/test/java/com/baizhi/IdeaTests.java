@@ -10,6 +10,7 @@ class IdeaTests {
     void contextLoads() {
         System.out.println("====");
         int a=10;
+        int b=20;
     }
 
 }
