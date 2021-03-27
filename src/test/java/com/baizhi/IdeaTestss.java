@@ -19,6 +19,7 @@ class IdeaTestss {
         System.out.println("===");
         int a=20;
         int b=30;
+        String str="111";
     }
 
 }
