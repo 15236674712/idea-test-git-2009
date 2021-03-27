@@ -11,4 +11,6 @@ public interface CategoryDao {
     Category queryById(String id);
 
     Integer query();
+
+    void delete();
 }
