@@ -12,4 +12,6 @@ public interface VideoDao {
 
     String query();
 
+    void add();
+
 }
