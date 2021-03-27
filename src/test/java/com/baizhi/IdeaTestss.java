@@ -21,6 +21,7 @@ class IdeaTestss {
         int b=30;
         String str="111";
         int aaa=12;
+        int bbb=13;
     }
 
 }
