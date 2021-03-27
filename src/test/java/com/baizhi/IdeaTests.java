@@ -13,4 +13,9 @@ class IdeaTests {
         int b=20;
     }
 
+    public static void main(String[] args) {
+        String str="lalala";
+        System.out.println(str);
+    }
+
 }
